@@ -30,7 +30,7 @@
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>open-folder.png</normaloff>open-folder.png</iconset>
+     <normaloff>icons/open-folder.png</normaloff>icons/open-folder.png</iconset>
    </property>
    <property name="iconSize">
     <size>
@@ -117,7 +117,7 @@ font: 15px &quot;MS Shell Dlg 2&quot; center
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>go-back-arrow.png</normaloff>go-back-arrow.png</iconset>
+     <normaloff>icons/go-back-arrow.png</normaloff>icons/go-back-arrow.png</iconset>
    </property>
    <property name="iconSize">
     <size>
@@ -176,7 +176,7 @@ font: 6pt &quot;MS Shell Dlg 2&quot;;</string>
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../Downloads/table.png</pixmap>
+    <pixmap>icons/table.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -199,7 +199,7 @@ font: 6pt &quot;MS Shell Dlg 2&quot;;</string>
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>exclamation-mark (1).png</normaloff>exclamation-mark (1).png</iconset>
+     <normaloff>icons/exclamation-mark (1).png</normaloff>icons/exclamation-mark (1).png</iconset>
    </property>
    <property name="iconSize">
     <size>
@@ -241,7 +241,7 @@ font: 6pt &quot;MS Shell Dlg 2&quot;;</string>
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>save.png</normaloff>save.png</iconset>
+     <normaloff>icons/save.png</normaloff>icons/save.png</iconset>
    </property>
    <property name="iconSize">
     <size>

@@ -98,6 +98,8 @@ class invScreen1(QWidget):
                 self.label_not_enough.setText("عدد الموظفين غير كافي")
 
             else:
+                self.label_not_enough = self.findChild(QLabel, "label_not_enough")
+                self.label_not_enough.setText("")
                 for mon in monitors:
                     mon.push_info(observser_data_lst, cnt)
                     # mon.print_info()

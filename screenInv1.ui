@@ -111,7 +111,7 @@ color:#2D2D2D;</string>
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../Downloads/open-folder.png</pixmap>
+    <pixmap>icons/open-folder.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -134,7 +134,7 @@ color:#2D2D2D;</string>
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../Downloads/table.png</pixmap>
+    <pixmap>icons/table.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
